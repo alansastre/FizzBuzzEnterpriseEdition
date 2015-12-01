@@ -121,6 +121,7 @@
 	        <targetClasses>
 	            <param>com.seriouscompany.business.java.fizzbuzz.packagenamingpackage.*</param>
 	        </targetClasses>
+	         <failWhenNoMutations>false</failWhenNoMutations>
 	            <outputFormats>
 	                <outputFormat>XML</outputFormat>
 	                <outputFormat>HTML</outputFormat>                      
